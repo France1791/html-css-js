@@ -1,4 +1,4 @@
-# html-css-js
+# html-css
 this a repo of some of my html,css and js projects. they are not my own projects, they from codeCamp and I'm just using them for practice.
 One is the first project I did, a basic cat photo app build with HTML
 Second one is a project realized with HTML and CSS
